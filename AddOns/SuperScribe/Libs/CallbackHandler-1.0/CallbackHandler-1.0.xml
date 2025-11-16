@@ -1,0 +1,5 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <!-- CallbackHandler-1.0 XML Loader -->
+    <!-- This is a stub - download the real CallbackHandler from Ace3 -->
+    <Script file="CallbackHandler-1.0.lua"/>
+</Ui>

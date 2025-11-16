@@ -1,0 +1,4 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <!-- AceAddon-3.0 XML Loader -->
+    <Script file="AceAddon-3.0.lua"/>
+</Ui>
