@@ -1,0 +1,8 @@
+## Interface: 50400
+## Title: MoP Helper
+## Notes: Simple helper addon for Mists of Pandaria Classic
+## Author: vLGrok
+## Version: 1.0.0
+## SavedVariables: MoPHelperDB
+
+MoPHelper.lua
